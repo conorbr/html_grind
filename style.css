@@ -1,0 +1,40 @@
+/*.background-colour{
+  background: #000;
+}*/
+
+.hover-text:hover{
+  color: purple;
+}
+
+.image-size{
+  height: 500px;
+  width: 500px;
+  overflow: none;
+}
+
+.image-size-sources{
+  height: 300px;
+  width: 300px;
+  overflow: none;
+}
+
+.margin-top-10{
+  margin-top: 10%
+}
+
+.boarder{
+  border: 2px;
+}
+
+.row-spacing{
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.buy-button-styling{
+    margin-top: 3pc;
+}
+
+.read-more{
+  margin-left: 13em;
+}
